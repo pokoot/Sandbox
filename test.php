@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Test
+ * Test 1
  *
  *@package
  *@version $id$
