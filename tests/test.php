@@ -5,3 +5,6 @@ use Sandbox\Test;
 
 
 echo Test::hi();
+print "\n";
+print Test::hello();
+print "\n";
