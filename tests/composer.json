@@ -1,0 +1,15 @@
+{
+    "name": "pokoot/hello-world",
+    "description": "test sandbox",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pokoot",
+            "email": "pokoot@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
