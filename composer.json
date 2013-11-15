@@ -1,0 +1,17 @@
+{
+    "name": "pokoot/sandbox",
+    "type": "library",
+    "description": "Testing",
+    "keywords": ["test","test"],
+    "homepage": "http://github.com/pokoot/sandbox",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Harold Kimc"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
+
