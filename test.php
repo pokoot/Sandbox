@@ -8,10 +8,10 @@
  *@author Harold Kim
  *@license http://pokoot.com/license.txt
  */
-class A{
+class Sample{
 
-        private function a(){
+    private function get(){
 
-        }
+    }
 }
 ?>
