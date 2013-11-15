@@ -21,7 +21,7 @@ class Test
 
     public static function oh_my_sandbox()
     {
-        return 'Fast forwarding?';
+        return 'This is version 0.1.3';
     }
 
 }
