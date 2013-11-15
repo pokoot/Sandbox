@@ -11,7 +11,6 @@
 class Sample{
 
     private function get(){
-
     }
 }
 ?>
